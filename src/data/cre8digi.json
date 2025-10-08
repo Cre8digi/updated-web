@@ -1,0 +1,348 @@
+{
+  "hero": {
+    "title": "Elevate Your Brand with Cutting-Edge Digital Solutions!",
+    "subtitle": "From Websites to UI/UX, SEO to Video Editing – We Cre8, You Grow!",
+    "description": "Let's build your brand with stunning visuals & strategy.",
+    "cta": {
+      "text": "Get Started",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "text": "Contact Us",
+      "href": "/contact"
+    },
+    "bgImage": "https://cre8digi.vercel.app/img/1.png"
+  },
+  "about": {
+    "heading": "Empowering Businesses with Digital Excellence!",
+    "content": "Cre8Digi is a creative digital agency specializing in website development, app development, video editing, SEO, thumbnail designing, and UI/UX design. Our mission is to enhance your brand's digital presence and help your business reach new heights of growth and innovation.",
+    "features": [
+      {
+        "title": "Business Consulting",
+        "description": "We provide expert guidance in SEO, branding, and digital strategy to help businesses grow effectively."
+      },
+      {
+        "title": "2+ Years of Expertise", 
+        "description": "With 2+ years of experience, we have successfully delivered 57+ projects across various industries."
+      }
+    ],
+    "stats": {
+      "projects": "57+",
+      "experience": "2+",
+      "email": "support@cre8digi.com",
+      "phone": "+91-8239374563"
+    }
+  },
+  "services": [
+    {
+      "id": "s1",
+      "title": "Website Development",
+      "summary": "We build fast, responsive, and SEO-friendly websites tailored to your business needs.",
+      "description": "Custom websites designed for performance, scalability, and user experience. Our development approach ensures your website not only looks great but also drives conversions.",
+      "icon": "Globe",
+      "image": "https://cre8digi.vercel.app/img/service-1.png",
+      "features": ["Responsive Design", "SEO Optimization", "Fast Loading", "Mobile-First"]
+    },
+    {
+      "id": "s2", 
+      "title": "App Development",
+      "summary": "Custom mobile and web applications designed for seamless user experience and performance.",
+      "description": "Native and cross-platform mobile applications that engage users and drive business growth. From concept to deployment, we handle the entire app development lifecycle.",
+      "icon": "Smartphone",
+      "image": "https://cre8digi.vercel.app/img/sevice-2.png",
+      "features": ["Native & Cross-platform", "UI/UX Design", "Backend Integration", "App Store Optimization"]
+    },
+    {
+      "id": "s3",
+      "title": "SEO Optimization", 
+      "summary": "Boost your search rankings and drive organic traffic with advanced SEO strategies.",
+      "description": "Comprehensive SEO strategies that improve your website's visibility and drive qualified organic traffic. We focus on both technical SEO and content optimization.",
+      "icon": "Search",
+      "image": "https://cre8digi.vercel.app/img/service-3.png",
+      "features": ["Keyword Research", "On-page SEO", "Technical SEO", "Content Optimization"]
+    },
+    {
+      "id": "s4",
+      "title": "Thumbnail Designing",
+      "summary": "High-converting thumbnails for YouTube and other platforms that capture attention and drive clicks.",
+      "description": "Eye-catching thumbnail designs that stand out in crowded social media feeds and video platforms. We create designs that maximize click-through rates.",
+      "icon": "Image",
+      "image": "https://cre8digi.vercel.app/img/sevice-4.png",
+      "features": ["Custom Graphics", "A/B Testing", "Platform Optimization", "Brand Consistency"]
+    },
+    {
+      "id": "s5",
+      "title": "Video Editing",
+      "summary": "Professional video editing to enhance brand storytelling and audience engagement.",
+      "description": "Professional video production and editing services that tell your brand story effectively. From corporate videos to social media content, we bring your vision to life.",
+      "icon": "Video",
+      "image": "https://cre8digi.vercel.app/img/service-5.png",
+      "features": ["Motion Graphics", "Color Grading", "Audio Enhancement", "Multi-platform Optimization"]
+    },
+    {
+      "id": "s6",
+      "title": "UI/UX Design",
+      "summary": "Intuitive and visually appealing designs that improve user interaction and satisfaction.",
+      "description": "User-centered design solutions that create meaningful experiences and drive business results. We design interfaces that are both beautiful and functional.",
+      "icon": "Palette",
+      "image": "https://cre8digi.vercel.app/img/service-6.png",
+      "features": ["User Research", "Wireframing", "Prototyping", "Usability Testing"]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "p1",
+      "title": "E-commerce Platform Redesign",
+      "category": "Web Development",
+      "description": "Complete redesign and development of a modern e-commerce platform with enhanced user experience and conversion optimization.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&h=300&fit=crop",
+      "tags": ["React", "Node.js", "MongoDB", "Stripe"],
+      "client": "EcomNest",
+      "results": "40% increase in conversions, 60% faster page load times"
+    },
+    {
+      "id": "p2", 
+      "title": "Brand Identity & Digital Marketing",
+      "category": "Branding",
+      "description": "Complete brand identity redesign with comprehensive digital marketing strategy including social media and content marketing.",
+      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=500&h=300&fit=crop",
+      "tags": ["Brand Design", "Social Media", "Content Strategy"],
+      "client": "BrandFusion",
+      "results": "200% increase in brand awareness, 150% growth in social media engagement"
+    },
+    {
+      "id": "p3",
+      "title": "Mobile App Development",
+      "category": "App Development", 
+      "description": "Cross-platform mobile application with real-time features and seamless user experience across iOS and Android.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=500&h=300&fit=crop",
+      "tags": ["React Native", "Firebase", "Real-time", "Push Notifications"],
+      "client": "TechVista",
+      "results": "50K+ downloads in first month, 4.8-star app store rating"
+    },
+    {
+      "id": "p4",
+      "title": "SEO & Digital Growth Strategy",
+      "category": "SEO",
+      "description": "Comprehensive SEO optimization and digital growth strategy that significantly improved organic traffic and search rankings.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop",
+      "tags": ["SEO", "Analytics", "Content Marketing", "Technical SEO"],
+      "client": "DigitalX Solutions",
+      "results": "300% increase in organic traffic, #1 ranking for target keywords"
+    },
+    {
+      "id": "p5",
+      "title": "Video Production & Social Media",
+      "category": "Video Production",
+      "description": "Professional video production and editing for brand storytelling and social media marketing campaigns.",
+      "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=500&h=300&fit=crop",
+      "tags": ["Video Editing", "Motion Graphics", "Social Media", "Brand Storytelling"],
+      "client": "Creative Media Co.",
+      "results": "2M+ video views, 80% increase in engagement rate"
+    },
+    {
+      "id": "p6",
+      "title": "UI/UX Design for SaaS Platform",
+      "category": "UI/UX Design",
+      "description": "Complete UI/UX redesign for a SaaS platform focusing on user experience and conversion optimization.",
+      "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=500&h=300&fit=crop",
+      "tags": ["UI Design", "UX Research", "Prototyping", "User Testing"],
+      "client": "SaaS Innovations",
+      "results": "45% improvement in user retention, 35% increase in trial-to-paid conversions"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "author": "Rohit Kumar",
+      "role": "Founder, DigitalX Solutions", 
+      "content": "Cre8Digi transformed our online presence with a sleek, high-performing website. Their team truly understands business needs and delivers beyond expectations.",
+      "image": "https://cre8digi.vercel.app/img/testimonial-2.jpg",
+      "rating": 5
+    },
+    {
+      "id": "t2",
+      "author": "Ananya Verma", 
+      "role": "Marketing Head, TechVista",
+      "content": "SEO and digital marketing services from Cre8Digi boosted our traffic and conversions significantly. A highly professional and skilled team!",
+      "image": "https://cre8digi.vercel.app/img/testimonial-1.jpg", 
+      "rating": 5
+    },
+    {
+      "id": "t3",
+      "author": "Vikram Joshi",
+      "role": "CEO, EcomNest",
+      "content": "From UI/UX design to web development, Cre8Digi provided top-notch services that helped scale our e-commerce business smoothly.",
+      "image": "https://cre8digi.vercel.app/img/testimonial-4.jpg",
+      "rating": 5
+    },
+    {
+      "id": "t4", 
+      "author": "Pooja Mehta",
+      "role": "Creative Director, BrandFusion",
+      "content": "Their graphic design and branding services elevated our brand identity. The creativity and attention to detail were outstanding!",
+      "image": "https://cre8digi.vercel.app/img/testimonial-3.jpg",
+      "rating": 5
+    }
+  ],
+  "team": [
+    {
+      "id": "tm1",
+      "name": "Santosh Kumavat",
+      "role": "Graphic Designer",
+      "image": "https://cre8digi.vercel.app/img/team-1.jpg",
+      "portfolio": "https://wa.me/918239374563?text=Hello%2C%20I%20am%20interested%20in%20your%20services!"
+    },
+    {
+      "id": "tm2", 
+      "name": "Narendra Parmar",
+      "role": "Full Stack Developer",
+      "image": "https://cre8digi.vercel.app/img/team-2.jpg",
+      "portfolio": "https://wa.me/918239374563?text=Hello%2C%20I%20am%20interested%20in%20your%20services!"
+    },
+    {
+      "id": "tm3",
+      "name": "Bhawna Dillon", 
+      "role": "SEO Expert",
+      "image": "https://cre8digi.vercel.app/img/team-3.png",
+      "portfolio": "https://wa.me/918239374563?text=Hello%2C%20I%20am%20interested%20in%20your%20services!"
+    },
+    {
+      "id": "tm4",
+      "name": "Lalit Kumar",
+      "role": "Social Media Manager", 
+      "image": "https://cre8digi.vercel.app/img/team-4.jpg",
+      "portfolio": "https://wa.me/918239374563?text=Hello%2C%20I%20am%20interested%20in%20your%20services!"
+    }
+  ],
+  "contact": {
+    "email": "support@cre8digi.com",
+    "phone": "+91-8239374563", 
+    "address": "21 Pratap Nagar Jodhpur",
+    "whatsapp": "+91-8239374563",
+    "description": "Easily connect with us! Type your message and hit send. We'll get back to you as soon as possible."
+  },
+  "blog": [
+    {
+      "id": "b1",
+      "title": "The Future of Digital Marketing: Trends to Watch in 2024",
+      "excerpt": "Discover the latest digital marketing trends that are shaping the industry and learn how to leverage them for your business growth.",
+      "content": "Digital marketing is evolving at an unprecedented pace. With the rise of AI-powered tools, voice search optimization, and personalized customer experiences, businesses need to stay ahead of the curve. In this comprehensive guide, we explore the top digital marketing trends for 2024, including the growing importance of video content, the rise of social commerce, and the increasing focus on privacy-first marketing strategies. Learn how to adapt your digital marketing strategy to these emerging trends and drive meaningful results for your business. The integration of artificial intelligence in marketing automation has revolutionized how brands connect with their audience. From predictive analytics to chatbots, AI is enabling more personalized and efficient marketing campaigns. Voice search is becoming increasingly important as smart speakers and voice assistants become more prevalent in households worldwide. Businesses need to optimize their content for voice queries, which tend to be more conversational and longer than traditional text searches.",
+      "author": "Bhawna Dillon",
+      "date": "2024-03-15",
+      "category": "Digital Marketing",
+      "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?w=600&h=400&fit=crop",
+      "tags": ["Digital Marketing", "Trends", "Strategy", "2024"]
+    },
+    {
+      "id": "b2", 
+      "title": "Building High-Converting Websites: A Developer's Guide",
+      "excerpt": "Learn the essential principles of web development that not only create beautiful websites but also drive conversions and business growth.",
+      "content": "Creating a website that converts visitors into customers requires more than just attractive design. It demands a strategic approach that combines user experience, performance optimization, and conversion psychology. In this detailed guide, we cover the fundamentals of building high-converting websites, from optimizing page load speeds to crafting compelling calls-to-action. We'll explore how responsive design, intuitive navigation, and strategic content placement can significantly impact your conversion rates. Plus, discover the latest web development frameworks and tools that can streamline your development process while ensuring optimal performance across all devices. Modern web development has evolved beyond simple HTML and CSS. Today's developers must consider user experience at every step, from the initial page load to the final conversion. Performance optimization plays a crucial role in user retention, with studies showing that a one-second delay in page load time can result in a 7% reduction in conversions. This guide will teach you how to implement best practices for speed optimization, including image compression, lazy loading, and efficient code structuring.",
+      "author": "Narendra Parmar",
+      "date": "2024-03-10", 
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
+      "tags": ["Web Development", "Conversion", "UX", "Performance"]
+    },
+    {
+      "id": "b3",
+      "title": "Brand Identity Design: Creating Memorable Visual Experiences",
+      "excerpt": "Explore the art and science of brand identity design and learn how powerful visuals can transform your business presence.",
+      "content": "Your brand identity is more than just a logo—it's the visual representation of your business values, personality, and promise to customers. In today's competitive marketplace, strong brand identity design can be the difference between blending in and standing out. This comprehensive guide walks you through the brand identity design process, from initial research and concept development to final implementation across all touchpoints. We'll cover color psychology, typography selection, logo design principles, and brand guideline creation. Learn how to develop a cohesive visual system that resonates with your target audience and builds lasting brand recognition. The process begins with thorough research into your target market, competitors, and industry landscape. Understanding your audience's preferences, pain points, and aspirations is crucial for creating a brand identity that truly connects. Color psychology plays a significant role in brand perception, with different colors evoking specific emotions and associations.",
+      "author": "Santosh Kumavat",
+      "date": "2024-03-05",
+      "category": "Branding",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop",
+      "tags": ["Branding", "Design", "Identity", "Visual Design"]
+    },
+    {
+      "id": "b4",
+      "title": "SEO in 2024: Advanced Strategies for Better Rankings",
+      "excerpt": "Master the latest SEO techniques and algorithm updates to improve your website's visibility and drive organic traffic growth.",
+      "content": "Search Engine Optimization continues to evolve as search engines become more sophisticated in understanding user intent and content quality. In 2024, successful SEO strategies focus on user experience, technical excellence, and authoritative content creation. This comprehensive guide covers the latest SEO best practices, including Core Web Vitals optimization, semantic search optimization, and the growing importance of E-A-T (Expertise, Authoritativeness, Trustworthiness) signals. Learn how to conduct effective keyword research in the age of semantic search, optimize for featured snippets, and build high-quality backlinks that actually move the needle. We'll also explore the impact of AI on search results and how to optimize your content for AI-powered search features. Technical SEO remains crucial, with site speed, mobile-friendliness, and crawlability serving as foundational ranking factors. The rise of voice search and local SEO has created new opportunities for businesses to capture high-intent traffic through conversational queries and location-based searches.",
+      "author": "Bhawna Dillon",
+      "date": "2024-03-08",
+      "category": "SEO",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "tags": ["SEO", "Search Engine", "Rankings", "Traffic"]
+    },
+    {
+      "id": "b5",
+      "title": "Mobile App Development: Native vs Cross-Platform in 2024",
+      "excerpt": "Compare the pros and cons of native and cross-platform mobile development to make the right choice for your project.",
+      "content": "The mobile app development landscape has evolved significantly, offering developers multiple paths to create engaging mobile experiences. This detailed comparison examines native development using Swift/Kotlin versus cross-platform solutions like React Native, Flutter, and Progressive Web Apps. We'll analyze performance considerations, development costs, time-to-market factors, and maintenance requirements for each approach. Native development offers unparalleled performance and access to platform-specific features, making it ideal for complex applications requiring intensive graphics or hardware integration. However, cross-platform solutions have matured considerably, offering near-native performance while significantly reducing development time and costs. React Native, backed by Meta, provides a robust framework for building cross-platform apps using JavaScript and React principles. Flutter, Google's UI toolkit, offers exceptional performance and a single codebase for multiple platforms. Progressive Web Apps (PWAs) represent another compelling option, combining web technologies with native app capabilities. The choice between these approaches depends on various factors including project requirements, budget constraints, timeline, and long-term maintenance considerations.",
+      "author": "Narendra Parmar",
+      "date": "2024-03-02",
+      "category": "App Development",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop",
+      "tags": ["Mobile Apps", "React Native", "Flutter", "Development"]
+    },
+    {
+      "id": "b6",
+      "title": "The Psychology of Color in Digital Design",
+      "excerpt": "Understand how color choices impact user behavior and learn to create more effective digital experiences through strategic color use.",
+      "content": "Color is one of the most powerful tools in a designer's arsenal, capable of influencing emotions, driving actions, and creating memorable brand experiences. This comprehensive guide explores the psychological impact of color in digital design, providing actionable insights for creating more effective user interfaces and marketing materials. We'll examine how different colors evoke specific emotional responses and how cultural contexts can influence color perception. Red, for instance, creates urgency and excitement, making it popular for call-to-action buttons and sale announcements. Blue conveys trust and stability, explaining its prevalence in financial and healthcare websites. Green represents growth and harmony, often used by environmental and wellness brands. The guide covers practical applications of color theory in web design, including creating effective color schemes, ensuring accessibility through proper contrast ratios, and using color to guide user attention and behavior. We'll also explore emerging trends in color usage, including the rise of dark mode designs, gradient applications, and the impact of HDR displays on color choices. Understanding color psychology enables designers to create more intuitive and emotionally resonant digital experiences that drive engagement and conversions.",
+      "author": "Santosh Kumavat",
+      "date": "2024-02-28",
+      "category": "UI/UX Design",
+      "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&h=400&fit=crop",
+      "tags": ["Color Theory", "Psychology", "UI Design", "User Experience"]
+    },
+    {
+      "id": "b7",
+      "title": "Content Marketing Strategies That Actually Work",
+      "excerpt": "Discover proven content marketing tactics that engage audiences, build trust, and drive measurable business results.",
+      "content": "Content marketing has become the cornerstone of digital marketing success, but creating content that truly resonates with audiences requires strategy, creativity, and data-driven insights. This comprehensive guide reveals the content marketing strategies that consistently deliver results, from audience research and content planning to distribution and performance measurement. Successful content marketing begins with deep audience understanding. Creating detailed buyer personas helps identify the topics, formats, and channels that will most effectively reach and engage your target audience. The content should address real pain points, provide genuine value, and align with different stages of the customer journey. We'll explore various content formats including blog posts, videos, podcasts, infographics, and interactive content, discussing the strengths and ideal use cases for each. Distribution strategy is equally important as content creation. Organic social media, email marketing, SEO optimization, and strategic partnerships can amplify your content's reach and impact. The guide includes frameworks for measuring content performance, from engagement metrics to lead generation and revenue attribution. We'll also cover content repurposing strategies that maximize the value of your content investments and emerging trends like user-generated content and interactive storytelling.",
+      "author": "Lalit Kumar",
+      "date": "2024-02-25",
+      "category": "Content Marketing",
+      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
+      "tags": ["Content Marketing", "Strategy", "Engagement", "ROI"]
+    }
+  ],
+  "features": [
+    {
+      "title": "Custom Solutions",
+      "description": "We provide tailored services that align with your business goals, ensuring unique and effective digital solutions.",
+      "icon": "Settings"
+    },
+    {
+      "title": "High Performance", 
+      "description": "Our websites, apps, and digital services are built for speed, security, functionality, delivering the best user experience.",
+      "icon": "Zap"
+    },
+    {
+      "title": "Creative Design",
+      "description": "We focus on visually stunning, user-friendly, and innovative designs that enhance brand identity and engagement.",
+      "icon": "Palette"
+    },
+    {
+      "title": "Growth-Focused",
+      "description": "Our strategies are designed to boost visibility, increase engagement, and drive long-term business success.",
+      "icon": "TrendingUp"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What Does Cre8Digi Offer?",
+      "answer": "Cre8Digi provides expert web development, app creation, SEO, UI/UX design, branding, and digital marketing. We help businesses grow with high-performance strategies."
+    },
+    {
+      "question": "What Are The Benefits of Digital Marketing?",
+      "answer": "Digital marketing increases brand visibility, drives organic traffic, improves customer engagement, and boosts conversions. It offers cost-effective solutions to reach a global audience."
+    },
+    {
+      "question": "Is SEO Important for My Business?", 
+      "answer": "Yes, SEO enhances online visibility, improves search engine rankings, and attracts more potential customers, making it a crucial part of digital success."
+    },
+    {
+      "question": "What Is UI/UX, and Why Does It Matter?",
+      "answer": "UI (User Interface) and UX (User Experience) focus on design and usability. A well-optimized UI/UX improves user satisfaction, engagement, and conversion rates."
+    },
+    {
+      "question": "How Can I Build a Strong Online Presence?",
+      "answer": "A strong online presence requires a professional website, consistent branding, optimized SEO, engaging content, and effective social media strategies. Cre8Digi can help you achieve this."
+    }
+  ]
+}
